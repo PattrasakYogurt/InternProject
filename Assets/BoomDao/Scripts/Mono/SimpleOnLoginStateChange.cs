@@ -36,6 +36,7 @@ namespace Boom.Mono
             else if (data.state == MainDataTypes.LoginData.State.LoggedIn)
             {
                 onLoggedIn.Invoke();
+               
             }
             else if (data.state == MainDataTypes.LoginData.State.Logedout)
             {

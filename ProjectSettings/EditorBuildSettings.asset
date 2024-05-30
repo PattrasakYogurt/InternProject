@@ -11,14 +11,17 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 0
+  - enabled: 1
     path: Assets/MinigameTemplate/Step 1 - DeployWorld/DeploymentScene.unity
     guid: d133f75990f7d3c4c83b5a6c70c37637
-  - enabled: 0
+  - enabled: 1
     path: Assets/MinigameTemplate/Step 2 - ExampleGame/Scenes/ExampleGameScene.unity
     guid: f2bd17ec3f8d96041a8c88573ac8ad75
-  - enabled: 0
+  - enabled: 1
     path: Assets/MinigameTemplate/Step 3 - NewGame/Scenes/NewGameScene.unity
     guid: ab04e06a1de34bc428a3ccb20a27f65b
+  - enabled: 1
+    path: Assets/MinigameTemplate/Step 3 - NewGame/Scenes/MyGame.unity
+    guid: 5ff4f113ba2cf384398995cf010e347a
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 44abee16bdd9f4932a015c86c1593b4a, type: 2}
